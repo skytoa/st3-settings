@@ -1,0 +1,8 @@
+{
+	"color_scheme": "Packages/User/SublimeLinter/Monokai (SL).tmTheme",
+	"dictionary": "Packages/Language - French - Français/fr_FR.dic",
+	"ignored_packages":
+	[
+		"Vintage"
+	]
+}

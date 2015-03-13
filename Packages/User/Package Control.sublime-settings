@@ -1,10 +1,22 @@
 {
+	"in_process_packages":
+	[
+	],
 	"installed_packages":
 	[
-		"Package Control",
+		"Alignment",
+		"All Autocomplete",
+		"ColorPicker",
 		"Emmet",
-        "Language - French - Français",
-        "PackageResourceViewer",
-        "Theme - Afterglow"
+		"GitGutter",
+		"Github Tools",
+		"Language - French - Français",
+		"LiveReload",
+		"Package Control",
+		"PackageResourceViewer",
+		"SideBarEnhancements",
+		"SublimeLinter",
+		"Terminal",
+		"Theme - Afterglow"
 	]
 }
